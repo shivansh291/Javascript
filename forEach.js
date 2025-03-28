@@ -3,4 +3,4 @@ array.forEach(function(value){
   console.log(value*10)
 })
 
-// This function will work for each elemnt of the array
+// This method (forEach) will work for each element of the array
