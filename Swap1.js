@@ -7,3 +7,5 @@ a = b // a = 20, b = 20
 b = c // a = 20, b = 10
 
 console.log(a, b)
+
+// swaping with extra var(c)
