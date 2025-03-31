@@ -1,4 +1,4 @@
-let shapes = {
+const shapes = {
   square : function (a){
     return a*a
   },
